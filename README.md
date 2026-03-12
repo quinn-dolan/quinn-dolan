@@ -4,7 +4,7 @@ I'm a data analyst who loves finding the story hiding inside a messy dataset. Wh
 
 ## 🛠 Tools & Skills
 
-SQL · Python (Pandas) · BigQuery · Postgres · Tableau · Looker · Excel · Hex · Claude
+SQL · Python (Pandas) · BigQuery · Postgres · Databricks · Tableau · Looker · Microsoft Excel · Hex · Claude
 
 ## ☕️ Beyond Data
 
